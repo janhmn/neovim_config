@@ -36,6 +36,7 @@ return {
 				"mypy",
 				"eslint_d",
 				"pylint",
+				"flake8",
 			},
 		})
 	end,
